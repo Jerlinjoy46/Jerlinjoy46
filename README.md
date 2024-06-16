@@ -21,9 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerlin-joy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jerlin-joy&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
