@@ -1,68 +1,30 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerlin Joy</h1>
-<h3 align="center">Software Developer | Abnormal Software Developer</h3>
+# 💫 About Me:
+💬 Ask me about at jerlinjoy2017@gmail.com<br>⚡ Fun fact I'm an Abnormal Software Developer.
 
-<p align="center">
-  <a href="#"><img align="center" width="auto" height="auto" src="https://github.com/Jerlinjoy46/Jerlinjoy46/blob/main/pngwing.com.png"/></a>
-</p>
 
-## 🙋‍♂️ About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerlin-joy) 
 
-- 📫 Reach me at **jerlinjoy2017@gmail.com**
-- ⚡ Fun fact: I'm an Abnormal Software Developer.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jerlin-joy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jerlin-joy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-joy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🚀 Languages and Tools:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jerlin-joy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/redis.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/grafana.png"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png"/>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 📊 My GitHub Stats
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jerlin-joy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <a href="https://github.com/jerlin-joy/github-readme-stats"><img alt="Jerlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jerlin-joy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jerlin-joy/github-readme-stats"><img alt="Jerlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-joy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+---
+[![](https://visitcount.itsvg.in/api?id=jerlin-joy&icon=4&color=1)](https://visitcount.itsvg.in)
 
-## 🔍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jerlin-joy-110b991b3"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
-
-## ❤ Views and Followers
-
-<p align="center">
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jerlin-joy"></a>
-  <a href="https://github.com/jerlin-joy?tab=followers"><img src="https://img.shields.io/github/followers/jerlin-joy?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
-## 📈 My Activity Graph
-
-<p align="center">
-  <a href="https://github.com/jerlin-joy/github-readme-activity-graph"><img alt="Jerlin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app?username=jerlin-joy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
