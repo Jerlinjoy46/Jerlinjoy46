@@ -60,6 +60,9 @@
   <a href="https://github.com/jerlin-joy?tab=followers"><img src="https://img.shields.io/github/followers/jerlin-joy?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+## 📈 My Activity Graph
+
 <p align="center">
   <a href="https://github.com/jerlin-joy/github-readme-activity-graph"><img alt="Jerlin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jerlin-joy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
+
