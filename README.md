@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jerlin Joy!  
+# 👋  Hi, I'm Jerlin Joy!  
 💬 Reach out at **jerlinjoy2017@gmail.com**  
 ⚡ **Fun fact:** I'm an **Abnormal Software Developer** who loves solving problems and building scalable solutions.  
 
